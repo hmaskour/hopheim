@@ -6,6 +6,8 @@
 
 No install needed. Works best with a keyboard.
 
+![Pim leaps across the rift where the sunny meadow meets the frozen world, with the axe in flight and a frozen enemy below](screenshot.png)
+
 ## The game
 
 You play Pim, a small hero in a horned helmet, on a journey through five worlds and two boss fights. The land is 60% sunlit meadow and 40% frozen rift, and the two meet inside the levels: the sky, the snow and the music all shift as you cross over.
